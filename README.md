@@ -61,7 +61,7 @@ To-Do List Menu:
 Sample Output
 ```bash
 +----+----------------+------------------------+------------+------------+---------------------+-------+
-| ID  | Title          		  | Description           	  | Due Date   | Status    | Created At          |
+| ID  | Title          		| Description           	| Due Date   | Status    | Created At          |
 +----+----------------+------------------------+------------+------------+---------------------+-------+
 |  1  | Complete Project    | Finish the Python script  | 2023-09-30 | pending   | 2023-09-25 14:12:30 |
 |  2  | Read Book           | Read 50 pages of a novel  | 2023-10-01 | completed | 2023-09-25 14:13:45 |
