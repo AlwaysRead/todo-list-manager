@@ -1,4 +1,6 @@
 Task Manager (MySQL + Python)
+
+
 This is a simple command-line task management application built using Python and MySQL. It allows users to add, update, delete, and view tasks, complete with due dates and status tracking.
 Features
 - Add Tasks: Users can create tasks with a title, description, due date, and status (pending/completed).
